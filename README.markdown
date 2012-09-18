@@ -1,7 +1,7 @@
 ippiparray
 ==========
 
-`ippiparray` is a widget which displays your device's current IP address (on the off-chance that it is even remotely working --- but not working remotely). It does not have a launcher aspect, it is only a widget. There are no dependencies for `ippiparray`. `ippiparray` is in whatever the development stage before extreme beta is ... I can't stress that enough.
+`ippiparray` is a widget which displays your device's current IP address (on the off-chance that it is even remotely working --- but not working remotely). It does not have a launcher aspect, it is only a widget. There are no dependencies for `ippiparray`. `ippiparray` is in whatever the development stage before extreme beta is ... I can't stress that enough. At this early stage, it does not detect the initial IP address on installation --- it only detects subsequent changes.
 
 
 Installation
