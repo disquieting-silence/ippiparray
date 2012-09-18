@@ -32,4 +32,4 @@ Installation and deployment to your system (connected device or running emulator
 
     ant debug install
 
-
+After installing the application, you will need to add the widget to one of your screens. This will be device-dependent (probably).
